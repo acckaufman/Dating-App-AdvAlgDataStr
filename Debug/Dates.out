@@ -1,0 +1,87 @@
+Welcome to the Command Line Dating App!
+
+
+Please type one of the following commands and hit [Enter].
+Please note: all commands are case-sensitive.
+
+NEWCLIENT:  Allows you to input your information as a new client.
+UNMATCH:    Unmatches you from your current matched pair.
+PRINTMATCH: Prints a list of all matched pairs.
+PRINTFREE:  Prints a list of all unmatched individuals.
+QUIT:       Quit the program.
+
+NEWCLIENT
+Enter your gender ('M' for Male, 'F' for Female): F
+Enter your name (up to 20 characters): Amanda
+Enter your phone number (format XXX-XXXX): 680-8268
+How many interests would you like to enter? 3
+
+Enter interest #0 (10 characters or less): hiking
+Enter interest #1 (10 characters or less): fishing
+Enter interest #2 (10 characters or less): swimming.
+Sorry!  We didn't find that special someone for you this time,
+but try again later!  There's still hope for you yet.
+
+
+Please type one of the following commands and hit [Enter].
+Please note: all commands are case-sensitive.
+
+NEWCLIENT:  Allows you to input your information as a new client.
+UNMATCH:    Unmatches you from your current matched pair.
+PRINTMATCH: Prints a list of all matched pairs.
+PRINTFREE:  Prints a list of all unmatched individuals.
+QUIT:       Quit the program.
+
+PRINTMATCH
+
+Current Match List:
+------------------------------------------
+
+There are currently no matched pairs.
+
+
+Please type one of the following commands and hit [Enter].
+Please note: all commands are case-sensitive.
+
+NEWCLIENT:  Allows you to input your information as a new client.
+UNMATCH:    Unmatches you from your current matched pair.
+PRINTMATCH: Prints a list of all matched pairs.
+PRINTFREE:  Prints a list of all unmatched individuals.
+QUIT:       Quit the program.
+
+printfree
+Command not found.  Please try again.
+
+
+Please type one of the following commands and hit [Enter].
+Please note: all commands are case-sensitive.
+
+NEWCLIENT:  Allows you to input your information as a new client.
+UNMATCH:    Unmatches you from your current matched pair.
+PRINTMATCH: Prints a list of all matched pairs.
+PRINTFREE:  Prints a list of all unmatched individuals.
+QUIT:       Quit the program.
+
+PRINTFREE
+Individuals Not Yet Matched:
+Men
+-------------------------------
+
+There are currently no single men. Sorry!
+
+Women
+-----------------------------
+Amanda, 680-8268
+
+
+
+Please type one of the following commands and hit [Enter].
+Please note: all commands are case-sensitive.
+
+NEWCLIENT:  Allows you to input your information as a new client.
+UNMATCH:    Unmatches you from your current matched pair.
+PRINTMATCH: Prints a list of all matched pairs.
+PRINTFREE:  Prints a list of all unmatched individuals.
+QUIT:       Quit the program.
+
+QUIT
